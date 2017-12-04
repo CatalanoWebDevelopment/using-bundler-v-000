@@ -6,4 +6,3 @@ Octokit
 Pry
 AwesomePrint
 
-puts "hello"
