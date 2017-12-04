@@ -1,9 +1,10 @@
 source "https://rubygems.org" do
-gem "sinatra", '1.4.4'
-gem "hashie"
-gem "octokit", '~>2.0'
-gem "awesome_print"
+  gem "sinatra", '1.4.4'
+  gem "hashie"
+  gem "octokit", '~>2.0'
+  gem "awesome_print"
 end
+
 gem "pry", :group => "development"
 
 group :test do
